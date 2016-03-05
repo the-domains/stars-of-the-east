@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Stars of the East]]></title>
         <description><![CDATA[Stars of the East]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stars-of-the-east/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 11:30:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 11:34:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stars-of-the-east/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Stars of the East]]></title>
-            <description><![CDATA[<article><h1>Stars of the East</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3267e12bea604995db2c0d8906f00ec142ef414a.jpg"></article>]]></description>
-            <link>undefinedstars-of-the-east/index.html</link>
+            <description><![CDATA[<article><h1>Stars of the East</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a5ebbae-f339-4de3-9e74-20a6f0d814fb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/stars-of-the-east/stars-of-the-east/index.html</link>
             <guid isPermaLink="false">f3e1cded-a535-4219-85b9-39b6c2d43ed4</guid>
-            <pubDate>Sat, 05 Mar 2016 11:30:27 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 11:33:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
